@@ -1,6 +1,6 @@
-# Smart Timetable (PWA)
+# Smart Timetable 
 
-A mobile-first smart timetable app for students.
+A mobile-first smart timetable app for students. Create for personal use
 
 ## Features
 - Add & manage subjects
@@ -21,3 +21,4 @@ A mobile-first smart timetable app for students.
 
 ## Author
 Anh Khoa Pham
+
